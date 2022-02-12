@@ -1,0 +1,6 @@
+{
+    "discord": "your discord token",
+    "omdb": "your omdb api key",
+    "clientid": "discord client id (AS STRING)",
+    "guildid": "discord guild id"
+}
